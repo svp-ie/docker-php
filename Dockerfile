@@ -4,8 +4,8 @@ ENV TERM=xterm \
     SHELL=bash \
     DEBIAN_FRONTEND=noninteractive \
     NODE_ENV=production \
-    PHP_VERSION=7.2 \
-    NODE_VERSION=12.x
+    PHP_VERSION=8.4 \
+    NODE_VERSION=26.x
 
 RUN apt-get update && \
     apt-get dist-upgrade -y && \
