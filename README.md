@@ -1,3 +1,7 @@
+Updated fork to use latest PHP & Node versions, specifically to support running osticket in docker
+
+---
+
 # Banian PHP docker image
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/banian/php.svg)](https://hub.docker.com/r/banian/php)
